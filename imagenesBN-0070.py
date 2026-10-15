@@ -1,3 +1,4 @@
+# Axel Guzman
 # Importamos las librerias
 import cv2
 import numpy as np
@@ -14,3 +15,4 @@ print(img)
 # Mostramos nuestra imagen
 plt.imshow(img, cmap='gray')
 plt.show()
+print("ptograma realizado por Axel Guzman 0070")
